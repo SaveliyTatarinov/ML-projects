@@ -14,3 +14,9 @@
 * Issue - тема жалобы
 * Sub-issue - подтема жалобы
 * Consumer complaint narrative - жалоба
+
+**Метрики модели**:
+* F1 score: 0.751
+* Accuracy: 0.776
+* Precision: 0.757
+* Recall: 0.776
