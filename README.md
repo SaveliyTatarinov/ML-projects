@@ -48,6 +48,17 @@
 * Precision: 0.835
 * Recall: 0.823
 
+### MNIST Digits Classification
+**Данные**: https://www.openml.org/search?type=data&status=active&id=554
+
+**Задача**: База данных MNIST представляет собой большую базу данных рукописных цифр, которая обычно используется для обучения различных систем обработки изображений 
+
+**Метрики модели**:
+* F1: 0.892
+* Accuracy: 0.893
+* Precision: 0.893
+* Recall: 0.892
+
 ## Regression
 
 ### House_Rent_Prediction
